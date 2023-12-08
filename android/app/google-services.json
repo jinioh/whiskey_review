@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018292708525",
+    "project_id": "fultter-app-whiskey",
+    "storage_bucket": "fultter-app-whiskey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018292708525:android:cc19b8b99dda6376109224",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUwNMrrGJ3GqLfaQwx9TD70-r0jcC32Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
